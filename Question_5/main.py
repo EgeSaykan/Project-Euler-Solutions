@@ -1,6 +1,6 @@
 # ----------------- HEADER --------------------
 
-# This file is a solution to Question 4
+# This file is a solution to Question 5
 # in Project Euler archives
 # (https://projecteuler.net/archives)
 
@@ -12,6 +12,7 @@
 # This file first generates a list of primes up
 # to 100th prime
 
+# ---------------------------------------------
 
 
 
