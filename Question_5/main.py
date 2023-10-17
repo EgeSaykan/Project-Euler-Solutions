@@ -41,3 +41,26 @@ while number_of_primes < 100:
     prime_list.append(count)
     number_of_primes += 1
   count += 1
+
+
+# for each number from 2 to desired
+# number, check if all the prime factors
+# of the current number has been added
+# to number_list, else add it to number_list
+number_list = []
+for i in range(2, 20):
+    if i in prime_list:
+      number_list.append(i)
+      continue
+    k = i
+    for m in number_list:
+      if k % m == 0:
+        k = k / m
+    if k != 1:
+      number_list.append(int(k))
+
+# mulitply all elements in number_list
+total = 1
+for i in number_list:
+  total *= i
+print(total)
