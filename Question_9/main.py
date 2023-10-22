@@ -1,7 +1,7 @@
 
 # ----------------- HEADER --------------------
 
-# This file is a solution to Question 8
+# This file is a solution to Question 9
 # in Project Euler archives
 # (https://projecteuler.net/archives)
 
