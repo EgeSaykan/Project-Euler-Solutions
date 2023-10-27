@@ -2,7 +2,7 @@
 
 # ----------------- HEADER --------------------
 
-# This file is a solution to Question 5
+# This file is a solution to Question 12
 # in Project Euler archives
 # (https://projecteuler.net/archives)
 
